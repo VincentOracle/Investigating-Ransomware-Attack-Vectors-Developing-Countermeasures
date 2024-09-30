@@ -1,0 +1,11 @@
+Age_above_18,Line_of_work,Years_of_experience,Phishing_encounter_frequency,Digital_forensics_tools,Greatest_threat_vector,RDP_cases_investigated,Impact_on_enterprise_networks,Critical_infrastructure_cases,Framework_following_frequency,Most_vulnerable_system,Investigation_time_average,Effective_forensic_tools,Countermeasures_effectiveness,Training_sessions_conducted,Crucial_training_topic,Cluster
+Yes,Student,1,3,X-Ways,Exploit Kits,2,4,90,Yearly,Linux Servers,3,Network Forensics Tools,4,3,Phishing Awareness,1
+Yes,Student,3,4,I'm not sure ,Malvertising,0,3,50,Never,Windows Servers,2,Disk Imaging Tools,4,0,Phishing Awareness,0
+Yes,Student,1,3,Autopsy,Phishing Emails,2,2,60,Seasonal,Cloud Systems,2,Network Forensics Tools,3,1,Phishing Awareness,1
+Yes,Student,1,3,Autopsy,Phishing Emails,1,4,20,Monthly,Linux Servers,15,Log Analysis Tools,3,0,Phishing Awareness,0
+Yes,IT professional ,10,4,None,Phishing Emails,0,5,10,Weekly,Windows Servers,15,Log Analysis Tools,5,0,Phishing Awareness,2
+Yes,IT professional ,11,4,Autopsy,Software Supply Chain,0,5,90,Daily,IoT Devices,72,Log Analysis Tools,4,2,Phishing Awareness,2
+Yes,Digital Forensics Analyst,2,4,EnCase,Phishing Emails,0,3,0,Seasonal,Windows Servers,75,Log Analysis Tools,3,0,Phishing Awareness,0
+Yes,Digital Forensics Analyst,6,4,EnCase,Phishing Emails,0,4,0,Seasonal,Windows Servers,150,Memory Forensics Tools,4,0,Phishing Awareness,2
+Yes,Digital Forensics Analyst,2,3,Forensics explorer,Phishing Emails,1,4,30,Seasonal,Windows Servers,2,Log Analysis Tools,3,1,Phishing Awareness,0
+Yes,IT professional ,3,3,Autopsy,RDP,3,2,30,Weekly,Windows Servers,6,Disk Imaging Tools,2,3,Forensics Analysis,1
