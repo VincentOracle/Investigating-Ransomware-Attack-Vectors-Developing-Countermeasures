@@ -1,5 +1,6 @@
 # INVESTIGATING RANSOMWARE ATTACK VECTORS AND DEVELOPING COUNTERMEASURES
 ## INTRODUCTION
+
 ### a.Background and Context
 The digital age has transformed how we live and work, bringing unprecedented connectivity, efficiency, and innovation. From personal devices to complex industrial systems, nearly every aspect of modern life depends on digital infrastructure. However, this reliance also brings significant risks, most notably from cyber threats. Among these, ransomware has emerged as one of the most severe and rapidly evolving forms of cybercrime.
 Ransomware is a type of malicious software designed to block access to a computer system or data until a ransom is paid. It encrypts the victim's files, rendering them inaccessible, and demands a payment, often in cryptocurrency, to decrypt the data. The first known ransomware attack, the AIDS Trojan in 1989, was relatively unsophisticated. However, ransomware has since evolved into a sophisticated and lucrative criminal enterprise, with modern variants employing advanced encryption techniques and stealthy propagation methods.
@@ -19,21 +20,21 @@ Beyond the financial toll, ransomware attacks have severe social implications. W
 
 ## 1.Aim and Objectives
 The primary aim of this dissertation is to investigate the attack vectors used in ransomware incidents and to develop countermeasures that can mitigate the risk and impact of these attacks. To achieve this aim, the research is structured around the following specific objectives;
-1.Analyze Historical and Current Ransomware Attacks
-i.Examine case studies of major ransomware incidents to identify common attack vectors and strategies employed by cybercriminals.
-ii.Understand the evolution of ransomware tactics over time and how they adapt to new security measures.
+1.Analyze Historical and Current Ransomware Attacks<br/> 
+i.Examine case studies of major ransomware incidents to identify common attack vectors and strategies employed by cybercriminals.<br/> 
+ii.Understand the evolution of ransomware tactics over time and how they adapt to new security measures.<br/> 
 2.Identify Key Attack Vectors
 a.Investigate the primary methods through which ransomware infiltrates systems, including phishing, exploit kits, remote desktop protocol (RDP) vulnerabilities, and software supply chain attacks.
 b.Assess the role of social engineering and human error in facilitating ransomware attacks.
 3.Develop and Evaluate Countermeasures
-i.Propose technical and organizational countermeasures to prevent, detect, and respond to ransomware attacks.
-ii.Evaluate the effectiveness of these countermeasures through simulations and expert feedback.
+i.Propose technical and organizational countermeasures to prevent, detect, and respond to ransomware attacks.<br/> 
+ii.Evaluate the effectiveness of these countermeasures through simulations and expert feedback.<br/> 
 4.Provide Recommendations for Future Research and Practice
 a.Offer guidelines for implementing the proposed countermeasures in different organizational contexts.
 b.Suggest areas for further research to enhance ransomware defense mechanisms.
 
 ## Research Questions
-What are the most common ransomware attack vectors?
-How do these attack vectors impact different systems and environments?
-What are the best practices in DFIR for investigating ransomware incidents?
+What are the most common ransomware attack vectors? <br/> 
+How do these attack vectors impact different systems and environments?<br/> 
+What are the best practices in DFIR for investigating ransomware incidents?<br/> 
 How can these insights be translated into effective countermeasures and training programs?
